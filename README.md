@@ -1,12 +1,6 @@
-# EEs Visualizer
+# AAs Visualizer
 
-Try this App right here: [EEs Visualizer](https://ericechemane.github.io/EEs-Visualization-Tool/)
-
-## Covered Path Finding Algorithms
-
-- Breadth First Search
-- Depth First Search
-- Dijkstra's Algorithm
+Try this App right here: [AA Visualizer] https://aa-visualizer.netlify.app/
 
 ## Covered Sorting Algorithms
 
