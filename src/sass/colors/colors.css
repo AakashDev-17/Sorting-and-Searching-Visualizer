@@ -1,0 +1,28 @@
+.f-color1 {
+  color: #ffffff;
+}
+
+.f-color2 {
+  color: rgba(255, 255, 255, 0.4);
+}
+
+.b-prime {
+  color: #22577A;
+}
+
+.b-accent {
+  color: #80ED99;
+}
+
+.b-error {
+  color: #EE3625;
+}
+
+.accent {
+  background-color: #80ED99;
+}
+
+.error {
+  background-color: #EE3625;
+}
+/*# sourceMappingURL=colors.css.map */
