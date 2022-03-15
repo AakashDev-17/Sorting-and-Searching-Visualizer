@@ -2,6 +2,12 @@
 
 Try this App right here: [AA Visualizer] https://aa-visualizer.netlify.app/
 
+## Covered Path Finding Algorithms
+
+- Breadth First Search
+- Depth First Search
+- Dijkstra's Algorithm
+
 ## Covered Sorting Algorithms
 
 - Merge Sort
